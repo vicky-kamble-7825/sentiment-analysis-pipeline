@@ -112,7 +112,7 @@ The model was evaluated on a balanced test set:
 
 \---
 
-\*\*Author:\*\* \[Your Name]  
+\*\*Author:\*\* \[Vicky kamble](https://www.linkedin.com/in/vicky-kamble-270488155/)  
 
 \*\*Field:\*\* AI / ML Engineering  
 
