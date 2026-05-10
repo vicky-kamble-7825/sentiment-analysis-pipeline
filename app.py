@@ -3,7 +3,7 @@ import joblib
 import re
 
 # Page Config (Makes it feel like a real app)
-st.set_page_config(page_title="SentimentFlow AI", page_icon="📊", layout="centered")
+st.set_page_config(page_title="Sentiment Insights AI", page_icon="📊", layout="centered")
 
 # Load Assets
 model = joblib.load('models/sentiment_model.pkl')
@@ -23,7 +23,7 @@ with st.sidebar:
     st.code("Python\nScikit-Learn\nStreamlit\nNLTK")
 
 # --- MAIN UI ---
-st.title("📊 SentimentFlow AI")
+st.title("📊 Sentiment Insights AI")
 st.markdown("---")
 
 user_input = st.text_area("Drop your product review here:", placeholder="The battery life was amazing...", height=150)
