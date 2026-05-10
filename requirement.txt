@@ -1,0 +1,12 @@
+# Data Science Core
+pandas
+numpy
+scikit-learn
+joblib
+
+# Natural Language Processing
+nltk
+
+# Web Interface & Production
+streamlit
+watchdog
